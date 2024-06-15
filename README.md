@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ihejirika Blessing 
 - 👀 I’m a Software Developer 
-- 🌱 I’m a python backend-end developer at Alabian Solutions
+- 🌱 I’m a python backend-end developer at Alabian Solutions 
+- 🌱 I’m proficient in other technologies like HTML, CSS, JAVASCRIPT, REACT, and TYPESCRIPT and the use of MySQL databases.
 - 💞️ I’m open to works, projects, freelancing and also collaborations
 - 📫 How to reach me: You can send me a message here, reach me via email: onyinyechukwumblessing@gmail.com or via whatsapp: +23481653900038
   
